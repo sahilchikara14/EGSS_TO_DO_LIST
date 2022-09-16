@@ -7,8 +7,7 @@ const List = (props) => {
     const [line, setLine] = useState(false);
 
     const strikeIt = () => {
-
-
+//
         setLine(!line);
     
     
